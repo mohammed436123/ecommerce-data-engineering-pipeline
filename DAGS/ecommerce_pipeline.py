@@ -326,7 +326,7 @@ def ecommerce_pipeline():
 
 
     # =========================================
-    # PIPELINE ORDER
+    # PIPELINE ORDER Nazeer check 
     # =========================================
 
     extract_task = extract_api()
@@ -353,3 +353,9 @@ def ecommerce_pipeline():
 
 
 ecommerce_pipeline()
+
+
+
+
+
+
